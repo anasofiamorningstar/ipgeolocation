@@ -11,3 +11,5 @@ Este proyecto es una herramienta de auditoría de red diseñada para capturar la
 1. Clona el repositorio:
    ```bash
    git clone [https://github.com/anasofiamorningstar/ipgeolocation.git](https://github.com/anasofiamorningstar/ipgeolocation.git)
+
+Este software es solo para fines educativos. El rastreo de direcciones IP sin autorización puede violar términos de servicio o leyes de privacidad dependiendo de tu jurisdicción.
